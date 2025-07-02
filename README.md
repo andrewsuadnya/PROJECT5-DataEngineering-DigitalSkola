@@ -1,8 +1,8 @@
-# Flask CRUD API with PostgreSQL and Docker
+# 🔧 Flask RESTful API with PostgreSQL and Docker
 
 ## 📄 Project Overview
 
-This project aims to build a simple CRUD API using **Flask** as the backend framework, **PostgreSQL** as the database, and **Docker** for containerization. The API provides basic user management functionality including:
+This project aims to build a simple CRUD API using **Flask** as the backend framework, **PostgreSQL** as the database, and **Docker** for containerization. The API provides basic user management functionality, including:
 
 * Create User
 * Read User(s)
